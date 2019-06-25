@@ -1,0 +1,11 @@
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\CapaDatos\obj\Debug\CapaDatos.pdb

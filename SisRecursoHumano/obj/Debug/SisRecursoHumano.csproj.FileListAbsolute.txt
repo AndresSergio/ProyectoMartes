@@ -1,0 +1,491 @@
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frmPersona.resources
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+c:\users\rolax\documents\visual studio 2015\Projects\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frmPersona.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Memorandum.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Control.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Postulante.resources
+C:\Users\Windows 10\Desktop\99\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frmPersona.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Control.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Postulante.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\99\Nueva carpeta\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Control.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.prueba.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\Rolax\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\Rolax\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\wfoto\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\HP\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Reporte_Control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojAssemblyReference.cache
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_eliminar_control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_modificar_control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Mostrar_contron.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Reporte_Control.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.cache
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CoreCompileInputs.cache
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.dll
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.pdb
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CopyComplete
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Desktop\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojAssemblyReference.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_eliminar_control.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_modificar_control.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Mostrar_contron.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Reporte_Control.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CoreCompileInputs.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CopyComplete
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.ReporteControl.resources
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\RdlCompile.cache
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\obj\Debug\RdlCompile.compiled
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\EnvDTE.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\stdole.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Downloads\SisRecursoHumano\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe.config
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\SisRecursoHumano.pdb
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\EnvDTE.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\stdole.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaNegocio.pdb
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\CapaDatos.pdb
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csprojAssemblyReference.cache
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Contrato.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_departamento.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_eliminar_control.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_benificiario.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_memorandum.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_modificar_control.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Mostrar_contron.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registar_Persona.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.FrmPrincipal.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Apelacion.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_registrar_Control.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Desempeño.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Colectivo.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Apelacion.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_Control.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Desempeño.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Colectivo.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Despido_Diciplinario.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Motivacion.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Listar_seguro.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_listar_postulante.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Listar_Trabajadores.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Lista_Personas.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Motivacion.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_contrato.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Memorandum.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Postulante.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_beneficiario.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_registrar_seguro.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_Registrar_tipo_seguro.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Registrar_Trabajador.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Reporte_Control.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_subdepartamento.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Tipo_De_Incumplimiento.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.frm_tipo_seguro.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Frm_Usuario_login.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.Properties.Resources.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.ReporteControl.resources
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.GenerateResource.cache
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\RdlCompile.cache
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\RdlCompile.compiled
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CoreCompileInputs.cache
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.csproj.CopyComplete
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.exe
+C:\Users\DieguitoST\Desktop\UDABOL\7mo semestre\Teoria general de sistemas\SisRecursoHumano\SisRecursoHumano\obj\Debug\SisRecursoHumano.pdb
